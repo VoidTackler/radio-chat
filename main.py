@@ -3,7 +3,7 @@ def on_received_number(receivedNumber):
         basic.show_leds("""
             . . . . .
             . . . . .
-            . # # # .
+            . . # . .
             . . . . .
             . . . . .
             """)
@@ -11,7 +11,7 @@ def on_received_number(receivedNumber):
         basic.show_leds("""
             . . . . .
             . . . . .
-            . . # . .
+            . # # # .
             . . . . .
             . . . . .
             """)
